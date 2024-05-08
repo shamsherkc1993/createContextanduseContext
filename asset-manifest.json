@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/createContextanduseContext/static/css/main.31d6cfe0.css",
+    "main.js": "/createContextanduseContext/static/js/main.248b39a7.js",
+    "index.html": "/createContextanduseContext/index.html",
+    "main.248b39a7.js.map": "/createContextanduseContext/static/js/main.248b39a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.248b39a7.js"
+  ]
+}
